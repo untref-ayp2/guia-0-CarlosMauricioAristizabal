@@ -1,3 +1,3 @@
-module ejercicio-01
+module ejerciciouno
 
 go 1.20
