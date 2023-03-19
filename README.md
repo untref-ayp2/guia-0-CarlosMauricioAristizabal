@@ -41,3 +41,4 @@
 - c. Circulo
 ​
 Que le permita al usuario crear 5 figuras y almacenarlas en un arreglo de figuras. Al terminar de cargar las figuras debe mostrar por pantalla todas las figuras almacenadas (usando el ToString) de cada figura.
+
