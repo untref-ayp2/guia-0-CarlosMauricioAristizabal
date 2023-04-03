@@ -1,11 +1,4 @@
-package main
-
-import "fmt"
-
-func main() {
-	arreglo := []int{1, 5, 5, 4, 3, 2}
-	fmt.Println(sumaDeArreglo(arreglo))
-}
+package ejercicios
 
 func sumaDeArreglo(arreglo []int) int {
 	var suma int
